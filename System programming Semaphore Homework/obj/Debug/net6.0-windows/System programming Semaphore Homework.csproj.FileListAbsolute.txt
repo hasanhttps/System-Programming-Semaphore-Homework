@@ -1,0 +1,7 @@
+C:\Users\hasan\source\repos\System programming Semaphore Homework\System programming Semaphore Homework\obj\Debug\net6.0-windows\System programming Semaphore Homework.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\System programming Semaphore Homework\System programming Semaphore Homework\obj\Debug\net6.0-windows\System_programming_Semaphore_Homework.Form1.resources
+C:\Users\hasan\source\repos\System programming Semaphore Homework\System programming Semaphore Homework\obj\Debug\net6.0-windows\System programming Semaphore Homework.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\System programming Semaphore Homework\System programming Semaphore Homework\obj\Debug\net6.0-windows\System programming Semaphore Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\System programming Semaphore Homework\System programming Semaphore Homework\obj\Debug\net6.0-windows\System programming Semaphore Homework.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\System programming Semaphore Homework\System programming Semaphore Homework\obj\Debug\net6.0-windows\System programming Semaphore Homework.AssemblyInfo.cs
+C:\Users\hasan\source\repos\System programming Semaphore Homework\System programming Semaphore Homework\obj\Debug\net6.0-windows\System programming Semaphore Homework.csproj.CoreCompileInputs.cache
